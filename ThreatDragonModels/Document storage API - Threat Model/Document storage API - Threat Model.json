@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Document storage API - Threat Model",
+    "owner": "Egnyeh",
+    "description": "REST API that allows authenticated users to upload and download their own documents. The system consists of three components: Web Client, REST API and Database. STRIDE methodology is applied to identify threats across trust boundaries.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
